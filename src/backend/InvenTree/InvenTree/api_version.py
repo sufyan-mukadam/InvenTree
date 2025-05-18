@@ -9,7 +9,7 @@ INVENTREE_API_VERSION = 343
 INVENTREE_API_TEXT = """
 v343 -> 2025-05-18 : https://github.com/inventree/InvenTree/pull/9673
     - Adds 'tax_id' to company model
-    - Adds 'tax_id' to search fields in the 'CompanyList' API endpoint 
+    - Adds 'tax_id' to search fields in the 'CompanyList' API endpoint
 
 v342 -> 2025-05-09 : https://github.com/inventree/InvenTree/pull/9651
     - Fix serializer to match Generate API for serial numbers
